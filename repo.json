@@ -1,0 +1,8 @@
+{
+    "name": "Antun523",
+    "description": "Antun523 test",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/antunAVG/Animetest/refs/heads/builds/plugins.json"
+    ]
+  }
